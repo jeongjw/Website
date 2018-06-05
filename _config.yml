@@ -7,6 +7,8 @@ port: 8000
 
 include: ['_includes/work']
 exclude: ['the_design.psd']
+baseurl: "/Website/"
+url: "http:://jeongjw.github.io"
 
 sass:
   sass_dir: assets/css
