@@ -1,0 +1,22 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+hero: "4.jpg"
+avatar: "2.jpg"
+
+# Colors
+
+accent: "#3b3a36" 
+  # "#c99065"
+
+textColor: "#666"
+#"#666"
+headlineColor: "#333"
+bgcolor: "#e9ece5" 
+  #"#ede9ce" 
+  #"#e3e0cf"
+
+  #"#e5eaee"
+documentBackgroundColor: "#fff"
